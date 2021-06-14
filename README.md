@@ -1,3 +1,4 @@
+![gEQRj8CsFR](https://user-images.githubusercontent.com/60427568/121937382-8baf7700-cd42-11eb-8a85-0479960913f1.gif)
 # react-carousel-component
 
 PROJECT SETUP
